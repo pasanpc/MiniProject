@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">Rent ACar</string>
+    <string name="price">PrIce :</string>
+    <string name="toyota_axio">Toyota Axio</string>
+    <string name="compact">Compact</string>
+    <string name="car">car</string>
+    <string name="pick_the_date">Pick The date</string>
+    <string name="number_of_days">Enter The NUmber Of days</string>
+    <string name="continue_">Continue</string>
+    <string name="mini">Mini</string>
+    <string name="select">Select</string>
+
+
 </resources>
