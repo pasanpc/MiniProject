@@ -10,5 +10,18 @@
     <string name="mini">Mini</string>
     <string name="select">Select</string>
 
+    <string name="card1">Name on card</string>
+    <string name="card01">Ex:-John</string>
+    <string name="card2">Card Number</string>
+    <string name="card02">XXXX XXXX XXXX XXXX</string>
+    <string name="card3">Card Expiry Date</string>
+    <string name="card4">Month</string>
+    <string name="card5">Year</string>
+    <string name="card6">CVC</string>
+    <string name="btn01">Cancel</string>
+    <string name="btn02">Pay</string>
+    <string name="msg01">Thank you for choosing our services!</string>
+    <string name="btn03">Home</string>
+
 
 </resources>
