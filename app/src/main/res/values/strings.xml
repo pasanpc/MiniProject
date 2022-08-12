@@ -31,6 +31,9 @@
     <string name="msg01">Thank you for choosing our services!</string>
     <string name="btn03">Home</string>
 
+    <string name="Question">Question</string>
+    <string name="Answer">Answer</string>
+    <string name="add">Add</string>
 
 
 </resources>

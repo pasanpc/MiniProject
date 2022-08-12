@@ -9,14 +9,10 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".VehicleActivity">
-
-        </activity>
+        <activity android:name=".VehicleActivity" />
         <activity android:name=".WelcomeActivity" />
         <activity android:name=".PaymentActivity" />
-        <activity android:name=".BookingActivity">
-
-        </activity>
+        <activity android:name=".BookingActivity" />
         <activity android:name=".HomePageActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
